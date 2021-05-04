@@ -1,11 +1,25 @@
 {
-  "name": "ossiwelcome",
+  "name": "serendia-squad",
   "version": "0.0.1",
-  "description": "Welcome",
+  "description": "Serendia Squad'tan Alosha tarafından yapılan bot.",
   "main": "ossi.js",
   "scripts": {
-    "test": "ossi.js"
+    "start": "node ossi.js"
   },
-  "author": "Ossi",
-  "license": "ISC"
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "opusscript": "^0.0.8"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Serendia",
+    "Squad",
+    "Serendia Squad",
+    "Alosha"
+  ]
 }
