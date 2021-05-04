@@ -1,0 +1,11 @@
+{
+  "name": "ossiwelcome",
+  "version": "0.0.1",
+  "description": "Welcome",
+  "main": "ossi.js",
+  "scripts": {
+    "test": "ossi.js"
+  },
+  "author": "Ossi",
+  "license": "ISC"
+}
